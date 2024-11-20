@@ -14,8 +14,8 @@ This project focuses on analyzing sales data from a pizza restaurant to uncover 
 ## Tools Used
    Power BI: For creating interactive dashboards and visualizing insights effectively.
 ## Features
--Time-Based Insights: Analyze sales trends across different times of the year.
--Shift-Based Analysis: Compare performance during day and night shifts.
--Detailed Reporting: Access in-depth insights for individual pizza types, supporting targeted decision-making.
+1) Time-Based Insights: Analyze sales trends across different times of the year.
+2) Shift-Based Analysis: Compare performance during day and night shifts.
+3) Detailed Reporting: Access in-depth insights for individual pizza types, supporting targeted decision-making.
 
 This project demonstrates my ability to extract meaningful insights from data and present them in a way that empowers business owners to make informed, data-driven decisions.
